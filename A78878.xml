@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties message concerning licenses granted to persons going into Ireland. And the answer of the House of Commons. With His Majesties reply to the House of Commons answer.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78878</idno>
+            <idno type="STC">Wing C2430</idno>
+            <idno type="STC">Thomason E134_27</idno>
+            <idno type="STC">ESTC R3224</idno>
+            <idno type="EEBO-CITATION">99872317</idno>
+            <idno type="PROQUEST">99872317</idno>
+            <idno type="VID">156415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156415)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties message concerning licenses granted to persons going into Ireland. And the answer of the House of Commons. With His Majesties reply to the House of Commons answer.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns a part of J. Pym's Speech delivered at a conference, Jan. 25, 1641 [i.e. 1642].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643. --  Speech delivered at a conference, Jan. 25, 1641.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156415:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES MESSAGE Concerning Licences granted to per<g ref="char:EOLhyphen"/>ſons going into IRELAND.</p>
+            <p>And the ANSVVER of the Houſe of COMMONS.</p>
+            <p>With His Majeſties Reply to the Houſe of COMMONS Anſwer.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:156415:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb n="1" facs="tcp:156415:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> His Majeſties Meſſage ſent to the Houſe of Commons, concerning Licences granted by His Majeſtie to ſeverall perſons to paſſe into <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty taking no<g ref="char:EOLhyphen"/>tice of a Speech, pre<g ref="char:EOLhyphen"/>tending in the Title, to have been delivered by M<hi rend="sup">r</hi> 
+               <hi>Pym</hi> in a Confe<g ref="char:EOLhyphen"/>rence, and printed by Order of the Houſe of Commons, in which it is affirmed, That ſince the ſtop upon the Ports againſt all Iriſh Papiſts by both Houſes, many of the chief Commanders, now in the head of the Rebels, have been ſuffered to paſſe by His Majeſties immediate Warrant; And being very certain of having uſed extreme Caution in the granting of Paſſeports into <hi>Ireland;</hi> So that He conceives, either this
+<pb n="2" facs="tcp:156415:3"/>Paper not to have been ſo delivered and printed as it pretends, or this Houſe to have received ſome miſ-in<g ref="char:EOLhyphen"/>formation;</p>
+            <p>His Majeſtie would be reſolved, whether this Speech were ſo deli<g ref="char:EOLhyphen"/>vered and Printed; and if it were, would have this Houſe to review upon what Informations that par<g ref="char:EOLhyphen"/>ticular was grounded, that either that may be found upon re-exami<g ref="char:EOLhyphen"/>nation to have been falſe, and both this Houſe and His Majeſtie injured by it, or that His Majeſtie may know by what means, and by whoſe fault, His Authority hath been ſo highly abuſed, as to be made to conduce to the aſſiſtance of that Rebellion, which He ſo much de<g ref="char:EOLhyphen"/>teſts and abhors, and that He may ſee Himſelf fully vindicated from all reflections of the leaſt ſuſpicion of that kinde.</p>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:156415:3"/>
+            <head>¶ The Anſwer of the Houſe of Commons.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt loyall and faithfull Subjects, the Com<g ref="char:EOLhyphen"/>mons now aſſembled in Parliament, have taken into their ſerious Conſi<g ref="char:EOLhyphen"/>deration the Meſſage received from your Majeſtie the ſeventh of this inſtant <hi>February,</hi> and do ac<g ref="char:EOLhyphen"/>knowledge that the Speech there<g ref="char:EOLhyphen"/>in mentioned to be delivered by Maſter <hi>Pym</hi> in a Conference, was Printed by their Order, and that what was therein delivered, was agreeable to the ſenſe of the Houſe. And touching that paſſage wherein it is affirmed, That ſince the ſtop upon the Ports againſt all Iriſh Papiſts by both Houſes, many of the chief Commanders now in the
+<pb n="4" facs="tcp:156415:4"/>head of the Rebels, have been ſuf<g ref="char:EOLhyphen"/>fered to paſſe by your Majeſties im<g ref="char:EOLhyphen"/>mediate warrant, They preſent your Majeſtie with this their hum<g ref="char:EOLhyphen"/>ble Anſwer,</p>
+            <p>That they have received divers advertiſements, concerning the ſe<g ref="char:EOLhyphen"/>verall perſons, Iriſh Papiſts and others, which have obtained your Majeſties immediate Warrants for their paſſing into <hi>Ireland</hi> ſince the Order of Reſtraint of both Houſes; ſome of which (as they have been informed) ſince their coming into <hi>Ireland,</hi> have joyned with the Rebels and been Commanders amongſt them, and ſome others have been ſtaid, and are yet in ſafe cuſtody, particularly the Lord <hi>Delvin,</hi> and four other perſons in his company, whereof one is thought to be a Prieſt: One Colonell <hi>Butler</hi> brother to the Lord <hi>Minyart</hi> now in Rebel<g ref="char:EOLhyphen"/>lion, and Sir <hi>George Hamilton,</hi> all which are Papiſts: and one other (as is reported) being ſon of the
+<pb n="5" facs="tcp:156415:4"/>Lord <hi>Nettersfield,</hi> whoſe father and brother are both in Rebellion. The particular names of others we have not yet received, but doubt not but upon Examination they may be diſ<g ref="char:EOLhyphen"/>covered.</p>
+            <p>And your Majeſties moſt Faith<g ref="char:EOLhyphen"/>full Subjects are very ſorry, That the extreme Caution which your Majeſtie hath vſed, hath been ſo ill ſeconded, with the diligence and faithfulneſſe of your Miniſters, and that your Royall Authority ſhould be ſo highly abuſed; Although, as it was expreſſed in that Speech by Maſter <hi>Pym,</hi> we beleeve it was by the procurement of ſome evill In<g ref="char:EOLhyphen"/>ſtruments too neer your Royall Perſon, without your Majeſties Knowledge and Intention. And we beſeech your Majeſtie to take ſuch courſe, That not onely your Honour may be vindicated for the time paſſed, but your Kingdom may be ſecured from the like miſchief for the time to come.</p>
+         </div>
+         <div type="document">
+            <pb n="6" facs="tcp:156415:5"/>
+            <head>His Majeſties Reply to the Houſe of Commons Anſwer, Concerning Licences granted by the King to perſons to go into <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S His Majeſty hath expreſſed a great de<g ref="char:EOLhyphen"/>ſire to give His Houſe of Com<g ref="char:EOLhyphen"/>mons all poſſible ſatiſfaction to all their juſt Requeſts, and a readineſſe to rectifie or retract any thing done by Himſelf, which might ſeem to trench upon their Priviledges by any miſtake of His, ſo He doubts not they will be ready upon all occaſi<g ref="char:EOLhyphen"/>ons to manifeſt an equall tendernes and regard of His Majeſties Ho<g ref="char:EOLhyphen"/>nour and Reputation with His
+<pb n="7" facs="tcp:156415:5"/>good Subjects<g ref="char:punc">▪</g> and therefore His Majeſtie expects they ſhould review His Meſſage of the ſeventh of this Moneth, concerning a paſſage in Maſter <hi>Pyms</hi> Speech, and their An<g ref="char:EOLhyphen"/>ſwer ſent to His Majeſtie by ſome of their Members on the tenth of the ſame, with which His Majeſtie can by no means reſt ſatiſfied.</p>
+            <p>His Majeſties Exception in that Meſſage was, that it was affirmed in that Speech, That ſince the ſtop upon the Ports againſt all Iriſh Papiſts, by both Houſes, many of the chief Commanders now in the head of the Rebells, have been ſuf<g ref="char:EOLhyphen"/>fered to paſſe by His Majeſties im<g ref="char:EOLhyphen"/>mediate Warrant.</p>
+         </div>
+         <div type="document">
+            <head>To this the Anſwer is:</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Speech mentioned in that Meſſage to be delivered by Maſter <hi>Pym,</hi> was Printed by their Order, and that what was
+<pb n="8" facs="tcp:156415:6"/>therein delivered was agreeable to the ſenſe of the Houſe: that they have received divers Advertiſements con<g ref="char:EOLhyphen"/>cerning ſeverall perſons, Iriſh Pa<g ref="char:EOLhyphen"/>piſts and others, who have obtain<g ref="char:EOLhyphen"/>ed His Majeſties immediate War<g ref="char:EOLhyphen"/>rant for their paſſing into <hi>Ireland,</hi> ſince the Order of Reſtraint of both Hou<g ref="char:EOLhyphen"/>ſes, ſome of which, they have been informed, ſince their coming into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> have joyned with the Rebells, and been Commanders amongſt them.</p>
+            <p>His Majeſtie is moſt aſſured, no ſuch perſon hath paſſed by His War<g ref="char:EOLhyphen"/>rant or Privitie, and then he deſires His Houſe of Commons to conſider, whether ſuch a generall Informa<g ref="char:EOLhyphen"/>tion and Advertiſement (in which there is not ſo much as the name of any particular perſon mentioned) be ground enough for ſuch a direct and poſitive Affirmation, as is made in that Speech, which in reſpect of the place and Perſon, and being now ac<g ref="char:EOLhyphen"/>knowledged
+<pb n="9" facs="tcp:156415:6"/>to be agreeable to the ſenſe of the Houſe, is of that autho<g ref="char:EOLhyphen"/>rity that His Majeſtie may ſuffer in the Affections of many of His good Subjects, and fall under a poſſible conſtruction (conſidering many ſcan<g ref="char:EOLhyphen"/>dalous pamphlets to ſuch a purpoſe) of not being ſenſible enough of that Rebellion, ſo horrid and odious to all Chriſtians, by which, in this di<g ref="char:EOLhyphen"/>ſtraction, ſuch a danger might poſſi<g ref="char:EOLhyphen"/>bly enſue to His Majeſties Perſon and Eſtate, as he is well aſſured His Houſe of Commons will uſe their utmoſt endeavours to prevent. And therefore His Majeſtie thinks it very neceſſary, and expects that they name thoſe perſons, who by His Majeſties Licence have paſſed into <hi>Ireland,</hi> and are now there in the head of the Rebells; Or that if upon their re-examination they do not finde par<g ref="char:EOLhyphen"/>ticular Evidence to prove that Aſ<g ref="char:EOLhyphen"/>ſertion (as His Majeſtie is confident they never can) as this Affirmation
+<pb n="10" facs="tcp:156415:7"/>which may reflect upon His Maje<g ref="char:EOLhyphen"/>ſtie, is very publike, ſo they will pub<g ref="char:EOLhyphen"/>liſh ſuch a Declaration whereby that miſtake may be diſcovered, His Majeſtie being the more tender in that particular, which hath Refe<g ref="char:EOLhyphen"/>rence to <hi>Ireland,</hi> as being moſt aſſu<g ref="char:EOLhyphen"/>red that He hath been, and is, from His Soul, reſolved to diſcharge His Dutie (which God will require at His hands) for the belief of His poor Proteſtant Subjects there, and the utter rooting out that Rebellion; So that Service hath not ſuffered any, but neceſſary delayes by any act of His Majeſties, for the want of any thing propoſed to His Majeſtie, or within His Majeſties power to do.</p>
+            <p>For the perſons named in the Anſwer, His Majeſtie ſaith that Colonel <hi>Butler,</hi> and the ſon of the Lord <hi>Nettersfield,</hi> obtained His War<g ref="char:EOLhyphen"/>rants for their paſſage into <hi>Ireland,</hi> at His Majeſties being in <hi>Scotland,</hi>
+               <pb n="11" facs="tcp:156415:7"/>which was long (as His Majeſtie thinks) before the Order of both Houſes: His Majeſtie knowing the former of them to be one who hath alwayes made Profeſſions to His Service, and to be Vncle to the Earle of <hi>Ormond,</hi> of whoſe affecti<g ref="char:EOLhyphen"/>on to the Proteſtant Religion, and His Majeſties Service, His Maje<g ref="char:EOLhyphen"/>ſtie hath great cauſe to be aſſured? And the latter being a perſon of whom, at that time, there was no ſuſpicion to His Majeſties know<g ref="char:EOLhyphen"/>ledge. For the other, it may be they have obtained Warrants from His Majeſtie ſince the ſaid Order; but His Majeſtie aſſures the Parlia<g ref="char:EOLhyphen"/>ment that He had no intimation of ſuch an Order, till after ſtay made of Sir <hi>George Hamilton,</hi> who was the laſt that had any Licence from His Majeſtie to paſſe for <hi>Ireland</hi>
+            </p>
+            <p>And His Majeſtie having ſince this Anſwer from the Houſe of Commons uſed all poſſible incans,
+<pb n="12" facs="tcp:156415:8"/>by the examining His own Memo<g ref="char:EOLhyphen"/>ry, and the Notes of His Secreta<g ref="char:EOLhyphen"/>ries, to finde what Warrants have been granted by Him, and to what perſons, doth not finde, That He hath granted any to any Iriſh, but thoſe who are named by the Houſe of Commons, and in December laſt to the Earle of Saint <hi>Albans,</hi> and to two of his ſervants, and to one <hi>Walter Terrell</hi> a poor man, they being ſuch as His Majeſtie is aſſu<g ref="char:EOLhyphen"/>red are not with the Rebels, and much leſſe chief Commanders over them. And though it may be, the Perſons named by the Houſe of Commons are Papiſts, yet His Majeſtie at that time thought it not fit, in reſpect of their Alliance in that Kingdom, to ſuch Perſons of great power, of whom His Maje<g ref="char:EOLhyphen"/>ſtie hoped well, to diſcover any ſu<g ref="char:EOLhyphen"/>ſpition of them, the Lords Iuſti<g ref="char:EOLhyphen"/>ces having declared by their Let<g ref="char:EOLhyphen"/>ters (which Letters were not diſ<g ref="char:EOLhyphen"/>approved
+<pb n="13" facs="tcp:156415:8"/>of by the Parliament here) that they were ſo far from owning a publike jealouſie of all Papiſts there, that they had thought fit to put Arms into the hands of divers Noble men of the Pale of that Re<g ref="char:EOLhyphen"/>ligion, who made Profeſſions to His Majeſties Service, and deſired the ſame. And ſince ſo great a truſt repoſed in ſome of the Lords of that Religion was not diſapproved by the Parliament here, His Majeſty could not imagine it unſafe or unfit for Him to give Licences to ſome few to paſſe into that Kingdom, who, though Papiſts, profeſſed due Allegiance and Loyaltie to His Majeſtie.</p>
+            <p>And therefore unleſſe the firſt Af<g ref="char:EOLhyphen"/>firmation of the Houſe of Commons can be made good by ſome particu<g ref="char:EOLhyphen"/>lars, His Majeſtie doth not know that His Miniſters have failed in their diligence and faithfulneſſe to His Majeſtie in this point, or that
+<pb n="14" facs="tcp:156415:9"/>His honour hath ſuffered ſo much by any Act of His own, as that it needs be vindicated for the time paſt by any other way then ſuch a De<g ref="char:EOLhyphen"/>claration which He expects from this Houſe, as in Duty and Iuſtice due to His Majeſtie.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
